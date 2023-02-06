@@ -4,7 +4,9 @@
 
 [![kereoke-meme](https://github.com/kubeskills/yt/blob/main/2022/Dec/img/andrew%20brown%20-%20dec%2021%202022.png)](http://youtu.be/flGA3q_6jdA)
 
-[Link to episode](http://youtu.be/flGA3q_6jdA)
+[Link to YouTube Live](http://youtu.be/flGA3q_6jdA)
+
+[Link to Podcast](https://kubeskills.fm/2105849/12197779-studying-for-kubernetes-exams)
 
 ## NOTES
 
