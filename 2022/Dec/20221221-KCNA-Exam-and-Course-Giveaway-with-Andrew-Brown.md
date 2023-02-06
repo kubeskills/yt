@@ -29,3 +29,5 @@
 - [Mongo DB Hackathon GitHub Repo](https://github.com/omenking/mongodb-atlas-gcp-microblog)
 
 - [Aiven](https://aiven.io/)
+
+- [KubeSkills Shop - Swag Store](https://kubeskills.shop)
