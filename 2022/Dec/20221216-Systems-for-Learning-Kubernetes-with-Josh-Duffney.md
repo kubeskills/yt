@@ -8,6 +8,8 @@
 
 [Link to Podcast](https://kubeskills.fm/2105849/12180198-systems-for-learning-kubernetes)
 
+[Full Transcript](https://www.rev.com/transcript-editor/shared/SuegwMr5ftf5fWuMd1uh9QDQQSykhza41p3AxUg6LRNvqkaLAwef3dW5seHdNHWgmE8QexsHWa0TQM25Mvw_PSjFTlo?loadFrom=SharedLink)
+
 ## NOTES
 
 - taking smart notes for Engineering by creating an outline
