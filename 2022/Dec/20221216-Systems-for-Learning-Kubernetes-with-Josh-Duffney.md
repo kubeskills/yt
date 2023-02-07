@@ -4,7 +4,9 @@
 
 [![kereoke-meme](https://github.com/kubeskills/yt/blob/main/2022/Dec/img/systems-for-learning-k8s-youtube-cover.png)](https://youtu.be/GvGDEPH-DaA)
 
-[Link to episode](https://youtu.be/GvGDEPH-DaA)
+[Link to episode on YouTube](https://youtu.be/GvGDEPH-DaA)
+
+[Link to Podcast](https://kubeskills.fm/2105849/12180198-systems-for-learning-kubernetes)
 
 ## NOTES
 
