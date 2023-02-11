@@ -21,6 +21,10 @@
 
 ## Links
 
+- [Brian Douglas on Twitter](https://twitter.com/bdougieYO)
+
+- [Find ways to contribute to Open Source](https://hot.opensauced.pizza/)
+
 - [Awesome Black Developers](https://github.com/bdougie/awesome-black-developers)
 
 - [Good First Issues Don't Exist - OpenSauced Blog](https://opensauced.pizza/blog/good-first-issues-dont-exist)
@@ -40,3 +44,27 @@
 - [Cloud Native Computing Foundation - Slack](https://communityinviter.com/apps/cloud-native/cncf)
 
 - [Get involved with Kubernetes SIG](https://kubernetes.io/docs/contribute/participate)
+
+---
+
+## CNCF Projects - GitHub
+
+- [https://github.com/argoproj](https://github.com/argoproj)
+- [https://github.com/containerd/containerd](https://github.com/containerd/containerd)
+- [https://github.com/coredns/coredns](https://github.com/coredns/coredns)
+- [https://github.com/etcd-io/etcd](https://github.com/etcd-io/etcd)
+- [https://github.com/helm/helm](https://github.com/helm/helm)
+- [https://github.com/linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+- [https://github.com/open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+- [https://github.com/prometheus/prometheus](https://github.com/prometheus/prometheus)
+- [https://github.com/cilium/cilium](https://github.com/cilium/cilium)
+- [https://github.com/cri-o/cri-o](https://github.com/cri-o/cri-o)
+- [https://github.com/crossplane/crossplane](https://github.com/crossplane/crossplane)
+- [https://github.com/cubefs/cubefs](https://github.com/cubefs/cubefs)
+- [https://github.com/dapr/dapr](https://github.com/dapr/dapr)
+- [https://github.com/falcosecurity/falco](https://github.com/falcosecurity/falco)
+- [https://github.com/istio/istio](https://github.com/istio/istio)
+- [https://github.com/kubevirt/kubevirt](https://github.com/kubevirt/kubevirt)
+- [https://github.com/knative/docs](https://github.com/knative/docs)
+- [https://github.com/kubernetes/community](https://github.com/kubernetes/community)
+
