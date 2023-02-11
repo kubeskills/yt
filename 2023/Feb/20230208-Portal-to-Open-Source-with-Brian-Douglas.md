@@ -8,6 +8,8 @@
 
 [Link to Podcast](https://www.buzzsprout.com/2105849/episodes/12229458)
 
+[Link to Transcripts](https://www.rev.com/transcript-editor/shared/q_Cjpbnye9XIsRYa2QbK6VYIIYp5a4dr_YMYkZ2kOMf8aGPPjIHjp3TPp_9UdEC-I8rQUossiQH4luztfKUeuhgJqEI?loadFrom=SharedLink)
+
 ## NOTES
 
 - Brian's first code contribution was fixing a node script
