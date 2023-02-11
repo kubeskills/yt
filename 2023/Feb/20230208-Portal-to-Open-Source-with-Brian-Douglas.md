@@ -8,7 +8,7 @@
 
 [Link to Podcast](https://www.buzzsprout.com/2105849/episodes/12229458)
 
-[Link to Transcripts](https://www.rev.com/transcript-editor/shared/q_Cjpbnye9XIsRYa2QbK6VYIIYp5a4dr_YMYkZ2kOMf8aGPPjIHjp3TPp_9UdEC-I8rQUossiQH4luztfKUeuhgJqEI?loadFrom=SharedLink)
+[Link to Transcripts](https://www.rev.com/transcript-editor/shared/SqSkhMGOIf3Ov8UFsV4mc0O0puvWsmhuj_GWwpjEJZap7OXRr9x0SmI8Ag1Z15VFITx3e5dpeYENCnplRi5PYQWuaxU?loadFrom=SharedLink)
 
 ## NOTES
 

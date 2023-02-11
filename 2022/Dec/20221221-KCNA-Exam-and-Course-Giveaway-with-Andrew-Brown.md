@@ -8,6 +8,8 @@
 
 [Link to Podcast](https://kubeskills.fm/2105849/12197779-studying-for-kubernetes-exams)
 
+[Link to Transcripts](https://www.rev.com/transcript-editor/shared/37iZeCPuGpdANmlXs6hJjK5Zz1dra9PLja_svE2FFmYhDKgICyS2YMxKVWukva6uM3NP-CC7PTVmmBUFc1nh2-vVzpY?loadFrom=SharedLink)
+
 ## NOTES
 
 - Someone new to cloud-native and Kubernetes, or someone who’s a senior cloud engineer or solutions architect filling in the gaps
