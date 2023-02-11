@@ -6,7 +6,7 @@
 
 [Link to YouTube Live](https://www.youtube.com/watch?v=lvga5mtF40A)
 
-[Link to Podcast](https://kubeskills.fm/2105849/12197779-studying-for-kubernetes-exams)
+[Link to Podcast](https://www.buzzsprout.com/2105849/episodes/12229458)
 
 ## NOTES
 
