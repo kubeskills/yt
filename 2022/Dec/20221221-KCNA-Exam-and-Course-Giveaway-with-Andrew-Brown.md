@@ -28,6 +28,8 @@
 
 - [Andrew's KCNA Course](https://www.exampro.co/kcna)
 
+- [Creating a Mental Model - CloudNewbies](https://cloudnewbies.com/)
+
 - [Mongo DB Hackathon GitHub Repo](https://github.com/omenking/mongodb-atlas-gcp-microblog)
 
 - [Aiven](https://aiven.io/)
