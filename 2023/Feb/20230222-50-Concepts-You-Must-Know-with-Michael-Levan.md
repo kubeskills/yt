@@ -2,66 +2,34 @@
 
 > published on 02/22/2023
 
-[![kereoke-meme](https://github.com/kubeskills/yt/blob/main/2023/Feb/img/Brian-Douglas-Feb-08-2023.png)](https://www.youtube.com/watch?v=lvga5mtF40A)
+[![kereoke-meme](https://github.com/kubeskills/yt/blob/main/2023/Feb/img/Michael-Levan-Feb-22-2023.png)](https://www.youtube.com/live/45AR9x8DFGg?feature=share)
 
 [Link to YouTube Live](https://www.youtube.com/live/45AR9x8DFGg?feature=share)
 
-[Link to Podcast]()
+[Link to Podcast](https://kubeskills.fm/2105849/12339107-50-kubernetes-concepts-you-must-know-with-michael-levan)
 
 [Link to Transcripts]()
 
 ## NOTES
 
 - This book is supposed to be used as a reference guide
-- 
-
+- This book is not meant for beginners to Kubernetes
+- This book is meant to provide a starting place for diving deeper into other topics, with references to other books included.
+- The book is split up between Day 0 (planning), Day 1 (implementation), and Day 2 (securing, monitoring and observing)
+- It's important to remember how you'll be approaching these concepts on the job. Reverse engineering sometimes comes in handy for solving a specific task.
+- Iptables (used with kube-proxy) don't scale well, and for larger environments, ebpf is a better solution. 
+- Pre-requisties to learning Kubernetes include Linux, Linux networking, infrastructure and container runtimes. Suggested resources are the books for network + (CompTIA), and Professor Messor.
 
 ## Links
 
-- [Brian Douglas on Twitter](https://twitter.com/bdougieYO)
+- [50 Kubernetes Concepts Every DevOps Engineer Should Know by Michael Levan](https://www.packtpub.com/product/50-kubernetes-concepts-every-devops-engineer-should-know/9781804611470)
 
-- [Find ways to contribute to Open Source](https://hot.opensauced.pizza/)
+- [Acing the CKA Exam Book by Chad Crowell](https://acingthecka.com)
 
-- [Awesome Black Developers](https://github.com/bdougie/awesome-black-developers)
+- [Nigel Poulton Kubernetes Book](https://nigelpoulton.com/books/)
 
-- [Good First Issues Don't Exist - OpenSauced Blog](https://opensauced.pizza/blog/good-first-issues-dont-exist)
+- [Production Kubernetes O'Reilly Book](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/)
 
-- [Twitter Space - you don't have a job, now what?](https://twitter.com/saucedopen/status/1623350859307577345?s=20&t=PZIHFsgeOc_coSXkTATvJw)
-
-- [Twitter Space - Find your next job through open-source](https://twitter.com/saucedopen/status/1618398227304435715?s=20&t=PZIHFsgeOc_coSXkTATvJw)
-
-- [OpenSauced on GitHub](https://github.com/open-sauced/open-sauced)
-
-- [First Timer's Only Website](https://firsttimersonly.com)
-
-- [OpenSauced Custom Dashboard for CNCF Projects](https://insights.opensauced.pizza/pages/bdougie/94/dashboard)
-
-- [OpenSauced YouTube Page](https://youtube.com/opensauced)
-
-- [Cloud Native Computing Foundation - Slack](https://communityinviter.com/apps/cloud-native/cncf)
-
-- [Get involved with Kubernetes SIG](https://kubernetes.io/docs/contribute/participate)
-
----
-
-## CNCF Projects - GitHub
-
-- [https://github.com/argoproj](https://github.com/argoproj)
-- [https://github.com/containerd/containerd](https://github.com/containerd/containerd)
-- [https://github.com/coredns/coredns](https://github.com/coredns/coredns)
-- [https://github.com/etcd-io/etcd](https://github.com/etcd-io/etcd)
-- [https://github.com/helm/helm](https://github.com/helm/helm)
-- [https://github.com/linkerd/linkerd2](https://github.com/linkerd/linkerd2)
-- [https://github.com/open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-- [https://github.com/prometheus/prometheus](https://github.com/prometheus/prometheus)
-- [https://github.com/cilium/cilium](https://github.com/cilium/cilium)
-- [https://github.com/cri-o/cri-o](https://github.com/cri-o/cri-o)
-- [https://github.com/crossplane/crossplane](https://github.com/crossplane/crossplane)
-- [https://github.com/cubefs/cubefs](https://github.com/cubefs/cubefs)
-- [https://github.com/dapr/dapr](https://github.com/dapr/dapr)
-- [https://github.com/falcosecurity/falco](https://github.com/falcosecurity/falco)
-- [https://github.com/istio/istio](https://github.com/istio/istio)
-- [https://github.com/kubevirt/kubevirt](https://github.com/kubevirt/kubevirt)
-- [https://github.com/knative/docs](https://github.com/knative/docs)
-- [https://github.com/kubernetes/community](https://github.com/kubernetes/community)
-
+- [ebpf for Beginners](https://github.com/lizrice/ebpf-beginners)
+- [Bash for Beginners YouTube playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
+- [Michael Levan on Linkedin](https://www.linkedin.com/in/michaellevan/)
