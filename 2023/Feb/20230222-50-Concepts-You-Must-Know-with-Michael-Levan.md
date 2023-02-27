@@ -8,7 +8,7 @@
 
 [Link to Podcast](https://kubeskills.fm/2105849/12339107-50-kubernetes-concepts-you-must-know-with-michael-levan)
 
-[Link to Transcripts]()
+[Link to Transcripts](https://www.rev.com/transcript-editor/shared/pvozfbmbLrjV0ef7Q9ow7UfLnnHNUVGYclMK6eyHFH2nfHYFORyscOUsGmHef_sSkoSq8LEhrPMVuz-AAVwihkZnuOw?loadFrom=SharedLink)
 
 ## NOTES
 
