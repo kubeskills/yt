@@ -2,7 +2,7 @@
 
 > published on 04/07/2023
 
-[![kereoke-meme](https://github.com/kubeskills/yt/blob/main/2023/Feb/img/Brian-Douglas-Feb-08-2023.png)](https://www.youtube.com/watch?v=lvga5mtF40A)
+[![kereoke-meme](https://github.com/kubeskills/yt/blob/main/2023/April/img/Kubeskills%20Lian%20Li%20-%20April%2007%202023.png)](https://youtube.com/live/sM5xXfO6NJg)
 
 [Link to YouTube Live](https://youtube.com/live/sM5xXfO6NJg)
 
