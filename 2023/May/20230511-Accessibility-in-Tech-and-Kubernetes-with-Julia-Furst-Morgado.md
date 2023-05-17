@@ -2,9 +2,9 @@
 
 > published on 05/11/2023
 
-[![kereoke-meme](https://github.com/kubeskills/yt/blob/main/2023/April/img/Kubeskills%20Lian%20Li%20-%20April%2007%202023.png)](https://youtube.com/live/sM5xXfO6NJg)
+[![kereoke-meme](https://github.com/kubeskills/yt/blob/main/2023/May/img/Kubeskills%20Julia%20Furst%20Morgado-%20April%2006%202023.png)](https://www.youtube.com/live/5adaq_KYRlU?feature=share)
 
-[Link to YouTube Live](https://youtube.com/live/sM5xXfO6NJg)
+[Link to YouTube Live](https://www.youtube.com/live/5adaq_KYRlU?feature=share)
 
 [Link to Podcast](https://www.buzzsprout.com/2105849/episodes/12229458)
 
