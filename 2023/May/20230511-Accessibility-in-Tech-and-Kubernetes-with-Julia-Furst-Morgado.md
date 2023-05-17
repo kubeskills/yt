@@ -6,8 +6,8 @@
 
 [Link to YouTube Live](https://www.youtube.com/live/5adaq_KYRlU?feature=share)
 
-[Link to Podcast](https://www.buzzsprout.com/2105849/episodes/12229458)
+[Link to Podcast](https://www.buzzsprout.com/2105849/12870001)
 
-[Link to Transcripts](https://www.rev.com/transcript-editor/shared/SqSkhMGOIf3Ov8UFsV4mc0O0puvWsmhuj_GWwpjEJZap7OXRr9x0SmI8Ag1Z15VFITx3e5dpeYENCnplRi5PYQWuaxU?loadFrom=SharedLink)
+[Link to Transcripts](https://www.rev.com/transcript-editor/shared/Rbjkw3cdfxHi3nA3MVQPDkV2o4G3wawYl0_mL7xKppGTB5Q4vBRM3XNDW7GTtHi_IxvCJPQuGUKF-aXCwIpM6epu6Ro?loadFrom=SharedLink)
 
 ## Show Notes
