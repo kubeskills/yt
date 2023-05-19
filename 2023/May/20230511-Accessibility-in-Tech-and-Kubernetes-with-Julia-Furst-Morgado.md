@@ -32,7 +32,7 @@
 - Reach out to people on social media and then meet them at the conferences or events for an opportunity to learn from them.
 - Message event organisers to find out if there are scholarships for those who want to attend but can’t afford like in the case of [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/).
 
-### How to reach Julia 
+## Links
 
 - [Julia's Twitter](https://twitter.com/JuliaFMorgado)
 - [Julia's LinkedIn](https://www.linkedin.com/in/juliafmorgado)
